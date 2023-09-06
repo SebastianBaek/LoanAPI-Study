@@ -1,4 +1,4 @@
-package com.zerobase.api.configuration
+package com.zerobase.api.config
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
